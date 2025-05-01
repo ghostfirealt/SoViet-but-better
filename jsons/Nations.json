@@ -52,7 +52,7 @@ a[
 	//Communist Bloc
 	
 	{
-		"name": "Soviet Union",
+		"name": "Soviet ",
 		"leaderName": "Joseph Stalin",
 		"adjective": ["Soviet"],
 		"startBias": ["Tundra"],
