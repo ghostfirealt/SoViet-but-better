@@ -1,4 +1,4 @@
-[
+a[
 	{
 		"name": "Aliens",
 		"leaderName": "Zyxxyz",
@@ -36,3 +36,54 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
 ]
+        		"tradeRequest": "This treaty shall benefit both of our interests.",
+		"outerColor": [220,20,60],
+		"innerColor": [255,255,255],	
+		
+		"uniqueName": "Dąbrowski's Mazurka!",
+		"uniques": ["[+10]% [Culture] [in all cities] <when at war>",
+		"[+10]% Strength <when fighting units from a Civilization with more Cities than you> <in [your] tiles>"
+		"All healing effects doubled <in [your] tiles> <when at war>"],
+		"cities": ["Warsaw", "Kraków", "Lwów", "Poznań", "Wilno", "Łódź", "Gdańsk", "Katowice", "Częstochowa", "Toruń", "Bydgoszcz", "Radom", "Sosnowiec", "Białystok", "Kielce", "Lublin", "Gdynia", "Cieszyn", "Zamość", "Tarnów", "Rzeszów", "Przemyśl", "Piotrków Trybunalski", "Włocławek", "Grudziądz", "Elbląg", "Chełm", "Płock", "Olsztyn", "Słupsk", "Koszalin", "Świętochłowice", "Chorzów", "Opole", "Legnica", "Wałbrzych", "Kalisz", "Leszno", "Nowy Sącz", "Łomża", "Ostrołęka", "Siedlce", "Tarnobrzeg", "Żyrardów", "Skierniewice", "Starogard Gdański", "Mielec", "Inowrocław", "Gniezno", "Racibórz"]
+		"spyNames": ["Jan Karski", "Krystyna Skarbek", "Stefan Rowecki", "Witold Pilecki", "Zofia Kossak-Szczucka", "Eugeniusz Świderski", "Emil August Fieldorf", "Antoni Chruściel", "Michał Karaszewicz-Tokarzewski", "Tadeusz Pełczyński"]
+	
+	
+	
+	//Communist Bloc
+	
+	{
+		"name": "Soviet Union",
+		"leaderName": "Joseph Stalin",
+		"adjective": ["Soviet"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity", //Orthodox in BNW
+		"personality": "Joseph Stalin",
+
+		"startIntroPart1": "Salutations Comrade Stalin, Vozhd of the Soviet Union and the great successor of Lenin, the father of our country! It is no secret that the country was made by blood and sacrifice, such act will forever be remembered within our great revolution of the 1917, and to this day, you are still remembered to fight alongside Lenin as one of his generals and liberated our motherland from the imperialist Tsarist Russia. Although our early years as a nation was difficult, we have managed to persevere and by 1945, 23 years after our nation was founded, we were then considered as a global superpower, thanks to our collective efforts as a nation.",
+		"startIntroPart2": "Comrade! The time has come, the world must be liberated from such imperialistic ideals, the workers call your name. Can you build a utopia free from imperialism? Can you build a civilization that can withstand the test of time?",
+		
+		"declaringWar": "The laborers has called, we must liberate the people from the capitalist pigs such as you!",
+		"attacked": "We do not like taking any foreign territory, but we shall never give up even a single grain of our lands!",
+		"defeated": "Imperilaist dog! You may have crushed the Soviet Union now, but you will never destroy the spirit of the revolution!",
+		"introduction": "I do not have time to talk with capitalist monsters, but if you are a friend of the workers, then you can be my friend as well.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["Do not make me wait then.","I am listening.","Go ahead."],
+		"neutralNo": ["No.","Certainly not.","That is unacceptable."],
+		"neutralYes": ["Good.","Very well.","This will do."],
+		
+		"hateHello": "What do you want!?",
+		"hateLetsHearIt": ["Spit it out!","What?","Out with it!"],
+		"hateNo": ["Never!","Excuse me?","You are joking right?"],
+		"hateYes": ["I cannot refuse.","Good enough.","Very well then."],
+		
+		"tradeRequest": "I suggest you accept this offer for I do not trade with outsiders that often.",
+		"outerColor": [179, 0, 0],
+		"innerColor": [255,255,0],
+		
+		"uniqueName": "War of The People",
+		"uniques": ["[-75]% maintenance costs <for [All] units> <when at war>", "[+15]% Production when constructing [Land] units [in all cities] <when at war>","[+15]% [Science]  [in all cities] <when at war>","[+20]% [Culture] [in all cities] <when at war>","[+20]% Growth [in all cities] <when at war>","[Military] unit gain the [DSEliteUnit] promotion,"[+20]% Strength <for [Military] unit>],
+		"cities": ["Moscow","Stalingrad","Leningrad","Kiev","Minsk","Baku","Kharkiv","Riga","Odessa","Grodno","Gomel","Rostov-on-Don","Kursk","Yekaterinburg","Vilnius","Vladivostok","Smolensk","Talinn","Tashkent","Khabarovsk","Chisnau","Sverdlovsk","Tbilisi","Murmansk","Arkhangelsk","Tula","Tashkent","Arkhangelsk","Ashgabat","Astana","Bishkek","Omsk","Yerevan","Saratov","Tula","Irkutsk","Perm","Pskov","Saratov","Irkutsk","Novokuznetsk","Orenburg"],
+		"spyNames": ["Pavel Sudoplatov", "Leopold Trepper", "Nikolai Kuznetsov", "Vasily Zarubin", "Elizaveta Zarubina", "Anatoli Gurevich", "Alexander Radó", "Sándor Radó", "Vladimir Dekanozov", "Stanisław Flato"]
+	},
